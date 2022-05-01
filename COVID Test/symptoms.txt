@@ -1,0 +1,19 @@
+Fever
+Dry cough
+Tiredness
+Headache
+Muscle aches
+Chills
+Sore throat
+Runny nose
+Rash
+.
+Vomiting
+Diarrhea
+Nausea
+.
+Difficulty Breathing
+Shortness of Breath
+Chest Pain or Pressure
+Loss of Speech or Movement
+.

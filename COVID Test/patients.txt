@@ -1,0 +1,153 @@
+123456
+David 
+Roberts
+20/03/2000
+62 Secret Street
+Macdonalds CBD
+3:00
+No
+Negative
+Alive
+
+654321
+James
+Taka 
+24/11/1992
+23 Footscray Road
+Macdonalds CBD
+16
+Yes
+Positive
+Dead
+
+649756
+Sam
+Wellington
+05/12/2004
+52 Nice Street
+Melbourne Cricket Ground
+8:30
+No
+Positive
+Alive
+
+792258
+Marella
+Morad
+10/01/1999
+Unit 1 on 12
+Flinders St Station
+11:00
+Yes
+Positive
+Alive
+
+762259
+Geroge
+Smith
+23/07/1997
+Unit 1 on 13
+Immigration Museum
+17:50
+Yes
+Positive
+Alive
+
+617447
+Sarah
+Mint
+01/10/2004
+Unit 1 on 7
+Federation Square
+12
+Yes
+Negative
+Alive
+
+316627
+Chris
+John
+01/09/2003
+122 Albert St
+Kmart Footscray
+11
+No
+Positive
+Dead
+
+999175
+Joey
+Tom
+01/03/2001
+Unit 4 on 15
+Melbourne Central
+12
+No
+Negative
+Alive
+
+273724
+Monica
+Geller
+15/08/1976
+city street
+Parliament House
+12
+Yes
+Positive
+Alive
+
+984849
+Robert
+Hatcher
+01/08/1961
+3537 Tecumsah Lane
+Queen Victoria Market
+12:30
+Yes
+Positive
+Alive
+
+243945
+Alma
+Mitchell
+16/09/1993
+2940 Drummond
+N/A
+N/A
+No
+Pending
+Alive
+
+998634
+Anthony
+Melville
+22/05/1995
+81 Marion St
+Royal Hospital
+15:30
+No
+No Test Needed
+Alive
+
+997417
+Gem
+Mackness
+21/08/1977
+poland road
+Kmart Footscray
+1930
+No
+Pending
+Alive
+
+613799
+Jo
+King
+12/12/2012
+3 Murphy Street
+Arts Centre Melbourne
+12:30
+No
+Pending
+Alive
