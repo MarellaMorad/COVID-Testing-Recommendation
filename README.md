@@ -1,4 +1,7 @@
 # COVID-Testing-Recommendation
+
+_This project was initially implemented for SWE20004 - Technical Software Development unit undertaken in Semester 1 - 2021_
+
 # 1 Project Background #
 ## 1.0 Introduction ##
 The start of the year 2020, marked the first COVID case in Australia, which then turned out to be a worldwide pandemic. As the virus continued to spread, people started confusing COVID symptoms with cold flu symptoms, given that they do share some of the symptoms. Shared symptoms, as declared by the Australian Government include cough and fever. Therefore, we have decided to develop this program to help people decide whether they need a COVID test or not.
